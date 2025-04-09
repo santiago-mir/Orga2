@@ -1,0 +1,1 @@
+estructuras.o: estructuras.c
