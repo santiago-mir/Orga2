@@ -1,1 +1,0 @@
-punteros.o: punteros.c
